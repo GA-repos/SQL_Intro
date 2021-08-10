@@ -230,7 +230,7 @@ singular column names" camp.
 
 ### Make sure Postgres is installed
 
-We installed Postgres during [Installfest]https://git.generalassemb.ly/flex-323/installfest/blob/master/postgres.md) in Week 1! Follow the commands below to ensure that it is running. 
+We installed Postgres during [Installfest](https://git.generalassemb.ly/flex-323/installfest/blob/master/postgres.md) in Week 1! Follow the commands below to ensure that it is running. 
 
 1. Open a terminal window. 
 1. Type `brew services list`. You should see a service called `postgresql` with a green status of "started". 
