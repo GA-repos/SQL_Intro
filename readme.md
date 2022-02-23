@@ -5,7 +5,7 @@
 It's time to learn our second database format! SQL is an older form of database
 management. Despite its age, it's still one of the most common and popular
 forms of data storage in building web applications - we're going to use it as our DB when
-we start learning Django! SQL stands for structured query language, the programming infrastructure used for retrieving data from relational databases. 
+we start learning python! SQL stands for structured query language, the programming infrastructure used for retrieving data from relational databases. 
 
 ## Prerequisites
 
