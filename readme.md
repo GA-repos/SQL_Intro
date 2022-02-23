@@ -230,7 +230,7 @@ singular column names" camp.
 
 ### Make sure Postgres is installed
 
-We installed Postgres during [Installfest](https://git.generalassemb.ly/flex-323/installfest/blob/master/postgres.md) in Week 1! Follow the commands below to ensure that it is running. 
+We installed Postgres during [Installfest](https://git.generalassemb.ly/Flex-928/installfest/blob/master/postgres.md) in Week 1! Follow the commands below to ensure that it is running. 
 
 1. Open a terminal window. 
 1. Type `brew services list`. You should see a service called `postgresql` with a green status of "started". 
@@ -392,7 +392,7 @@ just like we have with `.js` and `.rb` files.
 ## We Do: Building Our Database & Basic Queries 
 
 Clone down and follow the instructions in the
-[library SQL Exercise repo](https://git.generalassemb.ly/sei-921/library_sql).
+[library SQL Exercise repo](https://git.generalassemb.ly/Flex-928/library_sql).
 
 Complete the queries in `basic_queries.sql` in the library_sql repo. Do not go on to `advanced_queries` just yet. 
 
@@ -507,7 +507,7 @@ SELECT * FROM books JOIN authors ON books.author_id = authors.id WHERE authors.n
 ## You Do: Books and Authors 
 
 See advanced_queries.sql in the
-[library_sql](https://git.generalassemb.ly/sei-921/library_sql/blob/master/advanced_queries.sql)
+[library_sql](https://git.generalassemb.ly/Flex-928/library_sql/blob/master/advanced_queries.sql)
 exercise.
 
 ## Hungry for More? Less Common Joins
